@@ -3,3 +3,5 @@ Hello Alex!
 Add something below:
 
 Hello!
+
+Git is so much fun. 
